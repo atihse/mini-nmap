@@ -12,6 +12,6 @@ A simple and clean network scanner built in Python using Scapy.
 ## Installation
 
 ```bash
-git clone https://github.com/athise/python-network-scanner.git
-cd python-network-scanner
+git clone https://github.com/athise/mini-nmap.git
+cd mini-nmap
 pip install -r requirements.txt
